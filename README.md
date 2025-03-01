@@ -9,7 +9,7 @@ Data Loading & Exploration: Uses Pandas to load and inspect the dataset. Handlin
 # Technologies Used Python Pandas NumPy Matplotlib Seaborn Scikit-learn
 
 # Installation
-Clone the repository: git clone https://github.com/your-repo.git Install dependencies: pip install -r requirements.txt
+Clone the repository: git clone https://github.com/M07amedrabea/House-Price-Prediction.git Install dependencies: pip install -r requirements.txt
 
 # Run the Jupyter Notebook:
 jupyter notebook
